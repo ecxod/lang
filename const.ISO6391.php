@@ -11,7 +11,7 @@ class ISO6391 {
 ['aa',	'aaa',	'aa_ng',	'TRUE',	'Ghotuo'], // ok
 ['aa',	'aab',	'aa_',	'TRUE',	'Alumu-Tesu'],
 ['aa',	'aad',	'aa_pg',	'TRUE',	'Amal'], // ok
-['aa',	'aae',	'aa_',	'TRUE',	'Arbëreshë Albanian'],
+['aa',	'aae',	'aa_sq',	'TRUE',	'Arbëreshë Albanian'], // ok
 ['aa',	'aaf',	'aa_',	'TRUE',	'Aranadan'],
 ['aa',	'aag',	'aa_',	'TRUE',	'Ambrak'],
 ['aa',	'aah',	'aa_',	'TRUE',	'Abu Arapesh'],
