@@ -10,7 +10,6 @@ class ISO6391 {
   const LANG = [
 ['aa',	'aaa',	'aa_ng',	'TRUE',	'Ghotuo'], // ok
 ['aa',	'aab',	'aa_',	'TRUE',	'Alumu-Tesu'],
-['aa',	'aac',	'aa_',	'TRUE',	'Ari'],
 ['aa',	'aad',	'aa_',	'TRUE',	'Amal'],
 ['aa',	'aae',	'aa_',	'TRUE',	'Arbëreshë Albanian'],
 ['aa',	'aaf',	'aa_',	'TRUE',	'Aranadan'],
