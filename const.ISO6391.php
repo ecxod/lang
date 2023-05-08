@@ -10,8 +10,8 @@ class ISO6391 {
   const LANG = [
     ['ab','abk','ab_AB','Abkhazian','Austronesian',TRUE], // ok
     ['aa','aar','aa_AA','Afar','Ethiopia' ,TRUE], // ok
-    ['af','   ','af_AF','Afrikaans',TRUE],
-    ['ak','   ','ak_AK','Akan',TRUE],
+    ['af','afr','af_AF','Afrikaans','South Africa',TRUE], // ok
+    ['ak','aka','ak_AK','Akan',TRUE],
     ['sq','   ','sq_SQ','Albanian',TRUE],
     ['am','   ','am_AM','Amharic',TRUE],
     ['ar','   ','ar_AR','Arabic',TRUE],  // ok
