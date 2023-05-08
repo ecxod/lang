@@ -6,9 +6,9 @@ class ISO6391 {
   // short locale list
   const LA = ['ar','bg','cs','da','de','el','eo','en','es','et','fa','fi','fr','ga','he','hi','hu','id','it','ja','ko','lv','lt','nl','pl','pt','ro','ru','sk','sr','sv','th','tr','vi','zh'];
   
-  // long locale language names in english
+  // 2letter(lang), 3letter(ISO), 4letter(locale), lang name, lang family
   const LANG = [
-    ['ab','abk','ab_AB','Abkhazian',TRUE], // ok
+    ['ab','abk','ab_AB','Abkhazian','Austronesian',TRUE], // ok
     ['aa','   ','aa_AA','Afar',TRUE],
     ['af','   ','af_AF','Afrikaans',TRUE],
     ['ak','   ','ak_AK','Akan',TRUE],
