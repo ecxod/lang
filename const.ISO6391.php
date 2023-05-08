@@ -15,7 +15,7 @@ class ISO6391 {
 ['aa',	'aae',	'aa_',	'TRUE',	'Arbëreshë Albanian'],
 ['aa',	'aaf',	'aa_',	'TRUE',	'Aranadan'],
 ['aa',	'aag',	'aa_',	'TRUE',	'Ambrak'],
-['aa',	'aah',	'aa_',	'TRUE',	'Abu' Arapesh'],
+['aa',	'aah',	'aa_',	'TRUE',	'Abu Arapesh'],
 ['aa',	'aai',	'aa_',	'TRUE',	'Arifama-Miniafia'],
 ['aa',	'aak',	'aa_',	'TRUE',	'Ankave'],
 ['aa',	'aal',	'aa_',	'TRUE',	'Afade'],
