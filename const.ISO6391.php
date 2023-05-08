@@ -8,7 +8,7 @@ class ISO6391 {
   
   // 2letter(lang), 3letter(ISO), 4letter(locale), lang name, lang family
   const LANG = [
-['aa',	'aaa',	'aa_',	'TRUE',	'Ghotuo'],
+['aa',	'aaa',	'aa_ng',	'TRUE',	'Ghotuo'], // ok
 ['aa',	'aab',	'aa_',	'TRUE',	'Alumu-Tesu'],
 ['aa',	'aac',	'aa_',	'TRUE',	'Ari'],
 ['aa',	'aad',	'aa_',	'TRUE',	'Amal'],
