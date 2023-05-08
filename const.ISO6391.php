@@ -9,7 +9,7 @@ class ISO6391 {
   // 2letter(lang), 3letter(ISO), 4letter(locale), lang name, lang family
   const LANG = [
     ['ab','abk','ab_AB','Abkhazian','Austronesian',TRUE], // ok
-    ['aa','   ','aa_AA','Afar',TRUE],
+    ['aa','aar','aa_AA','Afar','Ethiopia' ,TRUE], // ok
     ['af','   ','af_AF','Afrikaans',TRUE],
     ['ak','   ','ak_AK','Akan',TRUE],
     ['sq','   ','sq_SQ','Albanian',TRUE],
