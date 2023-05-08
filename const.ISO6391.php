@@ -8,8 +8,8 @@ class ISO6391 {
   
   // long locale language names in english
   const LANG = [
-    ['ab','ab_AB','Abkhazian',TRUE], // ok
-    ['aa','aa_AA','Afar',TRUE],
+    ['ab','abk','ab_AB','Abkhazian',TRUE], // ok
+    ['aa','   ','aa_AA','Afar',TRUE],
     ['af','af_AF','Afrikaans',TRUE],
     ['ak','ak_AK','Akan',TRUE],
     ['sq','sq_SQ','Albanian',TRUE],
