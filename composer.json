@@ -2,14 +2,11 @@
     "name": "ecxod/lang",
     "description": "Language Library des Ecxod Projekts",
     "type": "library",
-    "keywords": ["ecxod", "lan"],
+    "keywords": ["ecxod", "lang"],
     "license": "MIT",
     "autoload": {
-        "files": [
-            "src/ecxod/lang.php"
-        ],
         "psr-4": {
-            "Ecxod\\Ecxod\\": "src/lang/"
+            "Ecxod\\Lang\\": "src/lang/"
         }
     },
     "authors": [
