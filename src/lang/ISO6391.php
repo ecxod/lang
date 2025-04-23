@@ -1,13 +1,18 @@
 <?php
+
+declare(strict_types=1);
+
+namespace Ecxod\Lang;
+
 class ISO6391 {
   
-  const UEB = ["en"];
+const UEB = ["en"];
   
   // short locale list
-  const LA = ['ar','bg','cs','da','de','el','eo','en','es','et','fa','fi','fr','ga','he','hi','hu','id','it','ja','ko','lv','lt','nl','pl','pt','ro','ru','sk','sr','sv','th','tr','vi','zh'];
+const LA = ['ar','bg','cs','da','de','el','eo','en','es','et','fa','fi','fr','ga','he','hi','hu','id','it','ja','ko','lv','lt','nl','pl','pt','ro','ru','sk','sr','sv','th','tr','vi','zh'];
   
   // 2letter(lang), 3letter(ISO), 4letter(locale), lang name, lang family
-  const LANG = [
+const LANG = [
 ['aa',	'aaa',	'aa_ng',	'TRUE',	'Ghotuo'], // ok
 ['aa',	'aab',	'aa_',	'TRUE',	'Alumu-Tesu'],
 ['aa',	'aad',	'aa_pg',	'TRUE',	'Amal'], // ok
@@ -7949,4 +7954,3 @@ class ISO6391 {
     'ZW' => 'Zimbabwe'
   ];
 }
-?>
