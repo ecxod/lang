@@ -1388,6 +1388,7 @@ class ISO6391 {
         ["dd",	"ddo",	"dd_",	"Dido"],
         ["dd",	"dds",	"dd_",	"Donno So Dogon"],
         ["dd",	"ddw",	"dd_",	"Dawera-Daweloor"],
+        ["de",  "deu",  "de_",  "Deutsch"],
         ["de",	"dec",	"de_",	"Dagik"],
         ["de",	"ded",	"de_",	"Dedua"],
         ["de",	"dee",	"de_",	"Dewoin"],
